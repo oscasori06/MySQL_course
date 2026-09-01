@@ -15,5 +15,10 @@ MySQL_course/
 ├── Statements/
 │   ├── 01_select.sql
 │   ├── 02_distinct.sql
+│   ├── 03_where.sql
+│   ├── 04_order_by.sql
+│   ├── 05_like.sql
+│   ├── 06_not_or_and.sql
+│   ├── 07_limit.sql
 🛠️En proceso...🛠️
 
