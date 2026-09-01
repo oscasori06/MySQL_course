@@ -20,5 +20,13 @@ MySQL_course/
 │   ├── 05_like.sql
 │   ├── 06_not_or_and.sql
 │   ├── 07_limit.sql
+│   ├── 08_null.sql
+│   ├── 09_min_max.sql
+│   ├── 10_count.sql
+│   ├── 11_sum.sql
+│   ├── 12_avg.sql
+│   ├── 13_in.sql
+│   ├── 14_between.sql
+│   ├── 15_alias.sql
 🛠️En proceso...🛠️
 
