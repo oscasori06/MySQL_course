@@ -28,5 +28,8 @@ MySQL_course/
 │   ├── 13_in.sql
 │   ├── 14_between.sql
 │   ├── 15_alias.sql
+│   ├── 16_in.sql
+│   ├── 17_between.sql
+│   ├── 18_alias.sql
 🛠️En proceso...🛠️
 
