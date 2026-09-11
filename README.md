@@ -28,8 +28,12 @@ MySQL_course/
 │   ├── 13_in.sql
 │   ├── 14_between.sql
 │   ├── 15_alias.sql
-│   ├── 16_in.sql
-│   ├── 17_between.sql
-│   ├── 18_alias.sql
+│   ├── 16_group_by.sql
+│   ├── 17_having.sql
+│   ├── 18_case.sql
+├── Database/
+│   ├── 01_insert_into.sql
+│   ├── 02_update.sql
+│   ├── 03_delete.sql
 🛠️En proceso...🛠️
 
