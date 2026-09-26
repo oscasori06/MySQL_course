@@ -1,0 +1,1 @@
+CREATE DATABASE test; /*Crea la base de datos test*/

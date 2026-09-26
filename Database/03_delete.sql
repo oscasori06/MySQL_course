@@ -1,1 +1,0 @@
-DELETE FROM users WHERE user_id=11/*Elimina el usuario con id 11 de la tabla users*/
