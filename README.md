@@ -31,9 +31,17 @@ MySQL_course/
 │   ├── 16_group_by.sql
 │   ├── 17_having.sql
 │   ├── 18_case.sql
-├── Database/
+├── Writing/
 │   ├── 01_insert_into.sql
 │   ├── 02_update.sql
 │   ├── 03_delete.sql
+├── Database/
+│   ├── 01_create_database.sql
+│   ├── 02_drop.sql
+├── Tables/
+│   ├── 01_create_table.sql
+│   ├── 02_drop_table.sql
+│   ├── 03_alter_table.sql
+│   ├── 04_relations.sql
 🛠️En proceso...🛠️
 
