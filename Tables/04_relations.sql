@@ -33,3 +33,22 @@ muchos a muchos. Un usuario puede hablar varios idiomas y un idioma puede ser ha
  La combinación de user_id y languages_id es única, es decir, un usuario no puede tener el mismo idioma más de una vez.*/
 
 
+/*Creo compañias para poder establecer la relación con users. La relación es de uno a muchos*/
+INSERT INTO companies(name) VALUES ("Prada");
+INSERT INTO companies(name) VALUES ("Apple");
+INSERT INTO companies(name) VALUES ("Microsoft");
+
+/*Actualizamos los datos de la tabla users para establecer la relación con companies.*/
+UPDATE users SET company_id = 1 WHERE user_id=1;
+UPDATE users SET company_id = 2 WHERE user_id=3;
+UPDATE users SET company_id = 3 WHERE user_id=4;
+UPDATE users SET company_id = 2 WHERE user_id=7;
+
+/*Creo la tabla intermedia para establecer la relación de muchos a muchos*/
+INSERT INTO users_languages(user_id, languages_id) VALUES (1, 4);
+INSERT INTO users_languages(user_id, languages_id) VALUES (1, 5);
+INSERT INTO users_languages(user_id, languages_id) VALUES (1, 6);
+INSERT INTO users_languages(user_id, languages_id) VALUES (2, 7);
+INSERT INTO users_languages(user_id, languages_id) VALUES (2, 5);
+
+
