@@ -43,5 +43,9 @@ MySQL_course/
 │   ├── 02_drop_table.sql
 │   ├── 03_alter_table.sql
 │   ├── 04_relations.sql
+├── Joins/
+│   ├── 01_inner_join.sql
+│   ├── 02_left_join.sql
+│   ├── 03_right_join.sql
 🛠️En proceso...🛠️
 
